@@ -1,0 +1,15 @@
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.AssemblyInfoInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.AssemblyInfo.cs
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.csproj.CoreCompileInputs.cache
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.exe
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.deps.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.runtimeconfig.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.runtimeconfig.dev.json
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\ref\Enhanced_If.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\bin\Debug\net5.0\Enhanced_If.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\ref\Enhanced_If.dll
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.pdb
+C:\Users\randybi\iCloudDrive\Documents\Coding Projects\C#\Enhanced_If\Enhanced_If\obj\Debug\net5.0\Enhanced_If.genruntimeconfig.cache
